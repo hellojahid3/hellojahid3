@@ -24,8 +24,8 @@
     <a href="https://twitter.com/tw_jahidhasan" target="_blank">
         <img src="https://img.shields.io/badge/Twitter-1D9BF0?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Profile" />
     </a>
-    <a href="https://github.com/gitjahid" target="blank">
-        <img src="https://img.shields.io/github/followers/gitjahid?style=for-the-badge&logo=github&logoColor=white&color=white&labelColor=black" alt="Portfolio" />
+    <a href="https://github.com/hellojahid3" target="blank">
+        <img src="https://img.shields.io/github/followers/hellojahid3?style=for-the-badge&logo=github&logoColor=white&color=white&labelColor=black" alt="Portfolio" />
     </a>
 </p>
 
@@ -84,7 +84,7 @@
 ![Apache](https://img.shields.io/badge/Apache-2496ED?label=Server&style=for-the-badge&logo=apache&logoColor=white)
 
 <!-- <p align="left">
-  <a href="https://github.com/gitjahid?tab=repositories" target="_blank">
+  <a href="https://github.com/hellojahid3?tab=repositories" target="_blank">
     <img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=git&logoColor=white"/>
   </a>
 </p> -->
@@ -94,16 +94,16 @@
 <br/>
 
 <p align="center">
-  <a href="https://github.com/gitjahid">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=gitjahid&theme=radical&border=167D7F&background=0D1117&border_radius=2&border=167D7F&stroke=167D7F&ring=167D7F&fire=167D7F&currStreakNum=167D7F&sideNums=167D7F&currStreakLabel=167D7F&sideLabels=167D7F&dates=167D7F" alt="Jahid's GitHub Streak"/>
+  <a href="https://github.com/hellojahid3">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=hellojahid3&theme=radical&border=167D7F&background=0D1117&border_radius=2&border=167D7F&stroke=167D7F&ring=167D7F&fire=167D7F&currStreakNum=167D7F&sideNums=167D7F&currStreakLabel=167D7F&sideLabels=167D7F&dates=167D7F" alt="Jahid's GitHub Streak"/>
   </a>
 </p>
 
 <a> 
-    <a href="https://github.com/gitjahid">
-        <img alt="Jahid's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=gitjahid&show_icons=true&count_private=true&theme=react&border_color=167D7F&bg_color=0D1117&title_color=167D7F&icon_color=167D7F" height="192px" width="49.5%"/>
+    <a href="https://github.com/hellojahid3">
+        <img alt="Jahid's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=hellojahid3&show_icons=true&count_private=true&theme=react&border_color=167D7F&bg_color=0D1117&title_color=167D7F&icon_color=167D7F" height="192px" width="49.5%"/>
     </a>
-    <a href="https://github.com/gitjahid">
-        <img alt="Jahid's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=gitjahid&langs_count=4&layout=compact&theme=react&border_color=167D7F&bg_color=0D1117&title_color=167D7F&icon_color=167D7F" height="192px" width="49.5%"/>
+    <a href="https://github.com/hellojahid3">
+        <img alt="Jahid's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=hellojahid3&langs_count=4&layout=compact&theme=react&border_color=167D7F&bg_color=0D1117&title_color=167D7F&icon_color=167D7F" height="192px" width="49.5%"/>
     </a>
 </a>
