@@ -50,6 +50,8 @@
 ![React](https://img.shields.io/badge/React-087ea4?style=for-the-badge&labelColor=055976&logo=react&logoColor=white)
 ![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white&labelColor=0A0A0A)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white&labelColor=A30023)
+![Alpine](https://img.shields.io/badge/Alpine.js-087ea4?style=for-the-badge&labelColor=055976&logo=alpine.js&logoColor=white)
+![Vue](https://img.shields.io/badge/Vue.js-087ea4?style=for-the-badge&labelColor=055976&logo=vue.js&logoColor=white)
 ![Redux](https://img.shields.io/badge/Redux-764abc?style=for-the-badge&logo=redux&logoColor=white&labelColor=5B3795)
 ![React Query](https://img.shields.io/badge/React_Query-ef4444?style=for-the-badge&logo=react%20query&logoColor=white&labelColor=ED1D1D)
 
@@ -57,12 +59,18 @@
     - Backend -
 </h4>
 
-![PHP](https://img.shields.io/badge/PHP-167D7F?style=for-the-badge&labelColor=black&logo=php&logoColor=white)
 ![Nodejs](https://img.shields.io/badge/Nodejs-167D7F?style=for-the-badge&labelColor=black&logo=node.js&logoColor=white)
+![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white&labelColor=0A0A0A)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white&labelColor=A30023)
+![PHP](https://img.shields.io/badge/PHP-167D7F?style=for-the-badge&labelColor=black&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-167D7F?&labelColor=black&style=for-the-badge&logo=laravel&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-167D7F?style=for-the-badge&labelColor=black&logo=express&logoColor=white)
 ![Strapi](https://img.shields.io/badge/strapi-167D7F?&labelColor=black&style=for-the-badge&logo=strapi&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-167D7F?&labelColor=black&style=for-the-badge&logo=laravel&logoColor=white)
-![GraphQL](https://img.shields.io/badge/GraphQL-167D7F?&labelColor=black&style=for-the-badge&logo=graphql&logoColor=white)
+
+<h4>
+    - Database -
+</h4>
+
 ![MySQL](https://img.shields.io/badge/MySQL-167D7F?style=for-the-badge&labelColor=black&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-167D7F?style=for-the-badge&labelColor=black&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-167D7F?&labelColor=black&style=for-the-badge&logo=mongodb&logoColor=white)
